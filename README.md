@@ -1,3 +1,5 @@
+1. 执行mkdir.sh
+2. python run_classifier.py
 ```shell
 TASK_NAME="cmnli"
 CURRENT_DIR=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
